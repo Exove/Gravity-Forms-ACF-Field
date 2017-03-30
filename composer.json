@@ -1,0 +1,9 @@
+{
+  "name": "certainlyakey/Gravity-Forms-ACF-Field",
+  "description": "Provides a field that lets you select from a list of active Gravity Forms",
+  "type": "wordpress-plugin",
+  "minimum-stability": "dev",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
